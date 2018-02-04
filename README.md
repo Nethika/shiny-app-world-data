@@ -46,7 +46,7 @@ A top level navigation bar created using `navbarPage()` allows the user to navig
 - RColorBrewer
 - DT
 
-## Screen Shots from App. [Link for the app](https://nethika.shinyapps.io/world_population_gdp/) {.smaller}
+## Screen Shots from App. [Link for the app](https://nethika.shinyapps.io/world_population_gdp/)
 
 <div id="bg">
   <img src="images/im_1.jpg" alt="" width="30%" height="30%">
@@ -56,3 +56,5 @@ A top level navigation bar created using `navbarPage()` allows the user to navig
   <img src="images/im_4.jpg" alt="" width="30%" height="30%">
   <img src="images/im_6.jpg" alt="" width="30%" height="30%">
 </div> 
+
+##  [Link for the Presentation](http://rpubs.com/nethika/shiny_presentation)
